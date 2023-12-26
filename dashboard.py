@@ -259,5 +259,9 @@ st.pyplot(fig)
  
 st.caption('Copyright (c) Dicoding 2023')
 
+# Aktifkan virtual environment dengan menjalankan perintah berikut.
+# conda activate main-ds
+# cara menonaktifkan
+# conda deactivate
 # run code :  streamlit run dashboard.py
 
